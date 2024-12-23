@@ -35,7 +35,7 @@ education:
       institution: University of Houston
       year: 2024
     - course: MEng in Software Engineering
-      institution: Massachusetts Institute of Technology
+      institution: Chongqing University of Posts and Telecommunications
       year: 2020
 
 
