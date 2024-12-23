@@ -10,11 +10,11 @@ last_name: Wang
 superuser: true
 
 # Role/position
-role: Assistant Professor of BME
+role: Assistant Professor of Biomedical Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Houston
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,13 +28,13 @@ interests:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
+      institution: University of Toronto
       year: 2012
     - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      institution: Wayne State University
       year: 2009
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      institution: University of Minnesota, Twin Cities
       year: 2008
 
 # Social/Academic Networking
