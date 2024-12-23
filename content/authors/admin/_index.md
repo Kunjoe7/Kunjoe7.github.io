@@ -10,7 +10,7 @@ last_name: Wang
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of BME
 
 # Organizations/Affiliations
 organizations:
