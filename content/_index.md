@@ -9,7 +9,7 @@ sections:
     content:
       title: |
         Smart healthcare
-        Research Group
+         Group
       image:
         filename: welcome.jpg
       text: |
