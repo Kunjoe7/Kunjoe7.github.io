@@ -71,4 +71,4 @@ user_groups:
   - Researchers
 ---
 
-余睿恒 is a Phd student at the BME department of UH. Research to develop AI models and design software to assist doctors in making diagnoses and providing treatment support, as well as to help the general public and patients manage their health effectively.
+Ruiheng Yu is a Phd student at the BME department of UH. Research to develop AI models and design software to assist doctors in making diagnoses and providing treatment support, as well as to help the general public and patients manage their health effectively.
