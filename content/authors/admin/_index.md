@@ -22,8 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Mining
+  - HCI
 
 education:
   courses:
@@ -47,7 +47,7 @@ social:
     link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://sites.google.com/umn.edu/luwang
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
