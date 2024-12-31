@@ -34,7 +34,7 @@ education:
     - course: PhD in Biomedical Engineering
       institution: University of Houston
       year: 2024
-    - course: MEng in Software Engineering
+    - course: BE in Software Engineering
       institution: Chongqing University of Posts and Telecommunications
       year: 2020
 
