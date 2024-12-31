@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Smart healthcare Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Smart healthcare Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2023.
   
   - block: collection
     content:
