@@ -2,7 +2,6 @@
 title: "Discovering the Causal Structure of the Hamilton Rating Scale for Depression Using Causal Discovery"
 authors:
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
