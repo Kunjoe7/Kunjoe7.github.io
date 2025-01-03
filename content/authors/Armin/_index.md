@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include application of Artificial Intelligence (AI) in the healthcare industry, aiming to assist medical professionals in making timely, accurate, and informed decisions
 
 interests:
   - Application of Artificial Intelligence in healthcare
