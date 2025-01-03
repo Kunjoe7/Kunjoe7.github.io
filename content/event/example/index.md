@@ -1,38 +1,38 @@
 ---
-title: Example Event
+title: Welcome Armin Khayati!
 
-event: Wowchemy Conference
+event: AI Lab Welcoming Ceremony
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Lab
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 4302 University Drive
+  city: Houston
+  region: TX 
+  postcode: '77004'
   country: United States
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: A special event to welcome Armin Khayati to the AI Lab.
+abstract: 'Join us in celebrating the arrival of Armin Khayati to our AI Lab. The event will feature a brief introduction, a lab tour, and refreshments. Let’s make Armin feel at home and kick off an exciting journey together!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-01-10T15:00:00Z'
+date_end: '2025-01-10T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-01-03T00:00:00Z'
 
 authors: []
-tags: []
+tags: [Welcome, Armin Khayati, AI Lab]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  focal_point: Center
 
 url_code: ''
 url_pdf: ''
@@ -51,13 +51,9 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+projects: []
 ---
 
-Slides can be added in a few ways:
+Join us for a warm welcoming event at the AI Innovation Lab as we celebrate the addition of Armin Khayati to our team. Armin will share a brief introduction about their background and aspirations, followed by an interactive Q&A session. Refreshments will be provided to make this a delightful and engaging occasion.
 
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+Don’t miss this opportunity to connect and welcome Armin to the team!
