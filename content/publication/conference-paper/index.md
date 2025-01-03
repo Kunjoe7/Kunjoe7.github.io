@@ -1,23 +1,23 @@
 ---
-title: 'An example conference paper'
+title: 'Interactive Explainable Deep Survival Analysis'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Xinyu
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2024-07-01T00:00:00Z'
+doi: 'https://doi.org/10.1109/EMBC53108.2024.10782608'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-12-17T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,13 +25,12 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society*
+publication_short: In *embc*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Being able to accurately predict the time to event of interest, commonly known as survival analysis, is extremely beneficial in healthcare for modeling disease progression, identifying prognostic factors, assessing risk of health by building survival models in health aging, precision medicine, supporting clinical decision making. In order to be usable by healthcare providers, survival analysis models need to be accurate, interpretable, and trustable. Efficient interaction between human stakeholders (e.g., developers, domain experts and/or end-users) and clear model interpretation not only improve the model performance but also enhance human trust. The primary goal of this paper is to develop algorithm and method that support implementation of trustworthy and time-efficient data-driven decision making for prevention and early intervention. Our experimental results on one public cancer datasets demonstrate the algorithm efficiency for predicting survival time of cancer patients.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -43,12 +42,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10782608'
+url_code: ''
 url_poster: ''
-url_project: ''
-url_slides: ''
 url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_video: 'https://youtube.com'
 
